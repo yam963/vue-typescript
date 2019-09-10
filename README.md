@@ -1,2 +1,2 @@
-# vue-typescripe
-a vue typescripe project test
+# vue-typescript
+a vue typescript project test
